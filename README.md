@@ -1,1 +1,0 @@
-Este é um projeto de aprendizado do Git e GitHub a partir do curso de back-end da EBAC.
